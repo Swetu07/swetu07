@@ -19,8 +19,8 @@
 > *Building now — will be live soon. Watch this space.*
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swetu07&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetu07&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swetu07&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swetu07&layout=compact&theme=tokyonight)
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/swetank-kumar-703086307)
