@@ -16,7 +16,16 @@
 **Learning:** Flask · SQLite · REST APIs · NumPy
 
 ## 📌 Projects
-> *Building now — will be live soon. Watch this space.*
+## 📌 Projects
+
+### 🎓 Student Report Card System
+
+* Python CLI app to manage student records and calculate GPA
+* Features: Add students, add marks, generate report, top student
+* Tech: Python, JSON
+
+🔗 [View Project](https://github.com/Swetu07/Student-Report-Card-System)
+
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swetu07&show_icons=true&theme=tokyonight)
