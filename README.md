@@ -16,7 +16,6 @@
 **Learning:** Flask · SQLite · REST APIs · NumPy
 
 ## 📌 Projects
-## 📌 Projects
 
 ### 🎓 Student Report Card System
 
