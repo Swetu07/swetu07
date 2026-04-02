@@ -25,6 +25,13 @@
 
 🔗 [View Project](https://github.com/Swetu07/Student-Report-Card-System)
 
+### ⚙️ Config System
+
+* Python CLI app to store and manage user preferences
+* Features: Load config, update settings, persistent storage using JSON
+* Tech: Python, JSON
+
+🔗 [View Project](https://github.com/Swetu07/config-system)
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swetu07&show_icons=true&theme=tokyonight)
