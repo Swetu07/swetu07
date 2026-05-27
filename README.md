@@ -48,7 +48,7 @@
 | Project | Tech Stack | Status |
 |---------|-----------|--------|
 | 🌐 Portfolio Website | HTML · CSS · JavaScript | 🔨 In Progress |
-| 🧩 LeetCode Daily Solutions | JavaScript · C++ | 📝 Ongoing — Day 1 |
+| 🧩 LeetCode Daily Solutions | JavaScript · C++ | 📝 Ongoing |
 
 ---
 
