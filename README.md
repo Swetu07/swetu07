@@ -12,7 +12,7 @@
 - 💻 Building **Full Stack projects** with the **MERN Stack** (MongoDB · Express · React · Node.js)
 - 📊 Solving **DSA problems daily** on LeetCode — Arrays → Strings → Linked Lists → Trees
 - 🎯 Goal: Land an **SDE Internship by Summer 2027**
-- 🌱 Currently learning: **HTML · CSS · JavaScript (Week 1)**
+- 🌱 Currently learning: Web Development Fundamentals | HTML · CSS · JavaScript
 - 💡 Philosophy: Building real things > watching tutorials forever
 
 ---
