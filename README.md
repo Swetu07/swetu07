@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=B.Tech+CSE+%40+KCC+Institute+of+Tech;Full+Stack+Developer+%28MERN%29+in+Progress;DSA+Daily+Grinder+%F0%9F%92%AA;Building+in+Public+%F0%9F%9A%80;Zero+to+FAANG+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-📍 New Delhi, India &nbsp;|&nbsp; 🎓 B.Tech CSE, Class of 2028 &nbsp;|&nbsp; 🔍 Open to SDE Internships 2027
+📍 New Delhi, India &nbsp;|&nbsp; 🎓 B.Tech CSE, Class of 2028 &nbsp;|&nbsp;
 
 ---
 
