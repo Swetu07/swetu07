@@ -1,6 +1,6 @@
 # Hi, I'm Swetank Kumar Dwivedi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=B.Tech+CSE+%40+KCC+Institute+of+Tech;Python+Backend+Developer+in+Progress;DSA+Daily+Grinder+%F0%9F%92%AA;Building+in+Public+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=B.Tech+CSE+%40+KCC+Institute+of+Tech;Full+Stack+Developer+%28MERN%29+in+Progress;DSA+Daily+Grinder+%F0%9F%92%AA;Building+in+Public+%F0%9F%9A%80;Zero+to+FAANG+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 📍 New Delhi, India &nbsp;|&nbsp; 🎓 B.Tech CSE, Class of 2028 &nbsp;|&nbsp; 🔍 Open to SDE Internships 2027
 
@@ -8,33 +8,38 @@
 
 ## 🌟 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science** @ KCC Institute of Technology
-- 🐍 Currently building **Python backend projects** (Flask + SQLite + REST APIs)
-- 📊 Solving **DSA problems daily** on LeetCode — Arrays → Linked Lists → Trees
+- 🎓 Pursuing **B.Tech in Computer Science** @ KCC Institute of Technology, New Delhi
+- 💻 Building **Full Stack projects** with the **MERN Stack** (MongoDB · Express · React · Node.js)
+- 📊 Solving **DSA problems daily** on LeetCode — Arrays → Strings → Linked Lists → Trees
 - 🎯 Goal: Land an **SDE Internship by Summer 2027**
-- 🌱 Currently learning: **Flask · REST APIs · SQLite · NumPy**
-- 💡 Believer in: building real things > watching tutorials
+- 🌱 Currently learning: **HTML · CSS · JavaScript (Week 1)**
+- 💡 Philosophy: Building real things > watching tutorials forever
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries:**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Frameworks & Libraries (Learning):**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Databases:**
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+**Databases (Learning):**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -42,34 +47,14 @@
 
 | Project | Tech Stack | Status |
 |---------|-----------|--------|
-| 🏫 Student Management System | Flask · SQLite · REST API | 🔨 In Progress |
-| 🧩 LeetCode Daily Solutions | C++ · Python | 📝 Ongoing |
+| 🌐 Portfolio Website | HTML · CSS · JavaScript | 🔨 In Progress |
+| 🧩 LeetCode Daily Solutions | JavaScript · C++ | 📝 Ongoing — Day 1 |
 
 ---
 
 ## 📌 Projects
 
-### 🎓 Student Report Card System
-> Python CLI app to manage student records and calculate GPA automatically
-
-- ✅ Add students, record subject-wise marks, generate detailed report cards
-- ✅ Identifies top-performing students across the class
-- ✅ Persistent storage using JSON — data survives across sessions
-- **Tech:** Python · JSON
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swetu07/Student-Report-Card-System)
-
----
-
-### ⚙️ Config System
-> Python CLI tool to store and manage user preferences persistently
-
-- ✅ Load, update, and reset application configuration settings
-- ✅ Persistent storage — preferences saved between sessions via JSON
-- ✅ Clean CLI interface for developer tooling practice
-- **Tech:** Python · JSON
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swetu07/config-system)
+> 🚀 Just started my MERN journey on May 26, 2026. Projects being built daily — check back soon!
 
 ---
 
@@ -87,6 +72,18 @@
 
 ---
 
+## 🗺️ My Roadmap
+
+```
+Phase 1 (May–Jun 2026)  → HTML · CSS · JavaScript · Git · 2 Projects deployed ✅ 
+Phase 2 (Jul 2026)      → React · Node.js · Express · First Full-Stack App
+Phase 3 (Aug–Nov 2026)  → MERN Stack · Redux · Socket.io · Next.js · 150+ DSA
+Phase 4 (Dec–Apr 2027)  → System Design · Advanced Projects · Interview Prep
+Phase 5 (May 2027)      → 🎯 FAANG Internship Season
+```
+
+---
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetank-kumar-703086307)
@@ -96,5 +93,6 @@
 ---
 
 <p align="center">
-  <i>⭐ "Consistent practice beats talent — every single time."</i>
+  <i>⭐ "Consistent practice beats talent — every single time."</i><br/>
+  <sub>Started from zero on May 26, 2026. Watch this space. 🚀</sub>
 </p>
