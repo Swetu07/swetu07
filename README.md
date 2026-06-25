@@ -11,7 +11,7 @@
 - Tools: VS Code, Git, GitHub
 
 ### 📌 Pinned Projects
-→ Coming soon as I build them
+[ATM SIMULATOR](https://github.com/Swetu07/ATM-Simulator-C.git)
 
 ## 🌐 Connect with Me
 
