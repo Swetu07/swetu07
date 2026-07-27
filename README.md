@@ -1,27 +1,132 @@
-## Hi, I'm Swetank Kumar 👋
+<h1 align="center">Hi 👋, I'm Swetank Kumar</h1>
+<h3 align="center">C++ Developer • DSA Learner • Future Software Engineer</h3>
 
-🎓 BTech CSE | 3rd Year
-🎯 Goal: Software Engineer
-💻 Currently mastering: C++, DSA, Algorithms
-📍 India
+<p align="center">
+  Passionate about writing clean code, solving problems, and building strong computer science fundamentals.
+</p>
 
-### 🛠️ Skills (Building)
-- Languages: C++ (primary), Python (learning)
-- CS Fundamentals: DSA, OOP, OS, DBMS
-- Tools: VS Code, Git, GitHub
+<p align="center">
+  <a href="https://github.com/Swetu07">
+    <img src="https://komarev.com/ghpvc/?username=Swetu07&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
-### 📌 Pinned Projects
-[ATM SIMULATOR](https://github.com/Swetu07/ATM-Simulator-C.git)
+---
 
-## 🌐 Connect with Me
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetank-kumar-703086307)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/swetu07/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swetu07)
+- 🎓 B.Tech Computer Science Student
+- 💻 Primarily working with **C++**
+- 📚 Currently learning **Data Structures & Algorithms**
+- 🌱 Exploring Software Engineering concepts step by step
+- ⚡ I enjoy solving coding problems and building projects
+- 🎯 Goal: Become a Software Engineer
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,markdown" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- C++
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Problem Solving
+
+---
+## 🚀 Coding Journey
+
+- 🔥 Daily LeetCode Practice
+- 🧩 Problems Solved: **10**
+- 💻 Primary Language: **C++**
+- 📚 Current Focus: **DSA**
+
+---
+## 📌 Featured Projects
+
+### 🏦 ATM Simulator
+A console-based ATM simulation developed in C++.
+
+**Features**
+- Secure PIN Authentication
+- Deposit & Withdrawal
+- Balance Inquiry
+- Transaction Flow
+- Clean Menu Driven Interface
+
+➡️ More projects will be added as I continue learning and building.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Swetu07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swetu07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Swetu07&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening C++ fundamentals
+- Practicing Data Structures & Algorithms
+- Building beginner to intermediate projects
+- Improving problem-solving skills
+- Writing clean and maintainable code
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/swetank-kumar-703086307/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/swetu07/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Swetu07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Philosophy
+
+> **"Consistency compounds. Small improvements every day lead to remarkable results over time."**
 
 ---
 
 <p align="center">
-  <i>⭐ "Consistent practice beats talent — every single time."</i><br/>
-  <sub>Started from zero on May 26, 2026. Watch this space. 🚀</sub>
+Thanks for visiting my profile! ⭐
 </p>
