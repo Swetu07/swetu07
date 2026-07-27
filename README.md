@@ -35,7 +35,7 @@
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,markdown" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 ---
