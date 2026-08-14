@@ -103,6 +103,10 @@ A console-based ATM simulation developed in C++.
 <a href="https://codeforces.com/profile/Swetu07">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/"/>
 </a>
+
+<a href="https://www.hackerrank.com/profile/swetankkumar15f">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/"/>
+</a>
 </p>
 
 ---
