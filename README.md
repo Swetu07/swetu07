@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swetank Kumar</h1>
-<h3 align="center">C++ Developer • DSA Learner • Future Software Engineer</h3>
+<h3 align="center">C++ Developer • DSA Learner • Software Engineer</h3>
 
 <p align="center">
   Passionate about writing clean code, solving problems, and building strong computer science fundamentals.
