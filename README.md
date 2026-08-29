@@ -47,6 +47,7 @@
 - Algorithms
 - Object-Oriented Programming
 - Problem Solving
+- Web Development 
 
 ---
 ## 🚀 Coding Journey
