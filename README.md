@@ -29,7 +29,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c" />
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css" />
 </p>
 
 ### Tools & Technologies
