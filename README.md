@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Swetank Kumar</h1>
-<h3 align="center">C++ Developer • DSA Learner • Software Engineer</h3>
+<h3 align="center">C++ Developer • Solving Problems • Software Engineer</h3>
 
 <p align="center">
   Passionate about writing clean code, solving problems, and building strong computer science fundamentals.
@@ -20,7 +20,7 @@
 - 📚 Currently learning **Data Structures & Algorithms**
 - 🌱 Exploring Software Engineering concepts step by step
 - ⚡ I enjoy solving coding problems and building projects
-- 🎯 Goal: Become a Software Engineer
+- 🎯 Goal: Software Engineer
 
 ---
 
