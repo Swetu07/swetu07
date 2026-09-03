@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science Student
+- 🎓 B.Tech in Computer Science
 - 💻 Primarily working with **C++**
 - 📚 Currently learning **Data Structures & Algorithms**
 - 🌱 Exploring Software Engineering concepts step by step
@@ -47,7 +47,7 @@
 - Algorithms
 - Object-Oriented Programming
 - Problem Solving
-- Web Development 
+- Web Development (HTML)
 
 ---
 ## 🚀 Coding Journey
