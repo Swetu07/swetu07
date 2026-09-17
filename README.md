@@ -21,7 +21,7 @@
 - 🌱 Exploring Software Engineering concepts step by step
 - ⚡ I enjoy solving coding problems and building projects
 - 🎯 Goal: Software Engineer
-- Portfolio : https://github.com/Swetu07/Swetu07.github.io.git
+- Portfolio (vibecoded): https://github.com/Swetu07/Swetu07.github.io.git
 
 ---
 
