@@ -1,4 +1,4 @@
-<h1 align="center">Hiii, I'm Swetank Kumar</h1>
+<h1 align="center">Hii, I'm Swetank Kumar</h1>
 <h3 align="center">C++ Developer • Solving Problems • Software Engineer •Open To Work </h3>
 
 <p align="center">
@@ -36,7 +36,7 @@
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,windows" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,windows,claude" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 - Algorithms
 - Object-Oriented Programming
 - Problem Solving
-- Web Development (HTML, CSS, JS)
+- Web Development (HTML, CSS, JS)(vibe coding)
 
 ---
 ## 🚀 Coding Journey
