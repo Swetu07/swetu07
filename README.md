@@ -49,7 +49,7 @@
 - Object-Oriented Programming
 - Problem Solving
 - Web Development (HTML, CSS, JS)(vibe coding)
-- AI Tools
+- AI Tools (ChatGpt)
 
 ---
 ## 🚀 Coding Journey
