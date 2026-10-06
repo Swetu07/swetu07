@@ -4,7 +4,6 @@
 <p align="center">
   Passionate about writing clean code, solving problems, and building strong computer science fundamentals.
 </p>
----
 
 ## 🚀 About Me
 
