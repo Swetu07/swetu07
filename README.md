@@ -4,6 +4,9 @@
 <p align="center">
   Passionate about writing clean code, solving problems, and building strong computer science fundamentals.
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Swetu07" alt="Profile Views">
+</p>
 
 ## 🚀 About Me
 
