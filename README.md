@@ -42,7 +42,7 @@
 - Object-Oriented Programming
 - Problem Solving
 - Web Development (HTML, CSS, JS)(vibe coding)
-- AI Tools (ChatGpt-6, Claude, Gemini)
+- AI Tools (ChatGpt-6, Claude Fable 5, Gemini)
 
 ---
 ## 🚀 Coding Journey
