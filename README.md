@@ -56,7 +56,7 @@
 ## 📌 Featured Projects
 
 ### 🏦 ATM Simulator
-A console-based ATM simulation developed in C++.
+A console-based ATM simulation developed in C.
 
 **Features**
 - Secure PIN Authentication
