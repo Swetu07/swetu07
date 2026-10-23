@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science
+- 🎓 B.Tech in Computer Science Engineering
 - 💻 Primarily working with **C++**
 - 📚 Currently learning **Data Structures & Algorithms**
 - 🌱 Exploring Software Engineering concepts step by step
