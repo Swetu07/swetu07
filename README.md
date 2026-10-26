@@ -66,7 +66,7 @@ A console-based ATM simulation developed in C.
 - Clean Menu Driven Interface
 - LINK : https://github.com/Swetu07/ATM-Simulator-C.git
 
-➡️ More projects will be added as I continue learning and building (some mini projects are in repo).
+➡️ More projects will be added as I continue learning and building (some mini projects are in repositories).
 
 ---
 
