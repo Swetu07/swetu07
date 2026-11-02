@@ -70,10 +70,9 @@ A console-based ATM simulation developed in C.
 ➡️ More projects will be added as I continue learning and building (some mini projects are in repositories).
 
 ---
-
 ## 🎯 Current Focus
 
-- Strengthening C++ fundamentals
+- Strengthening C++ fundamentals Along with DSA
 - Practicing Data Structures & Algorithms
 - Building beginner to intermediate projects
 - Improving problem-solving skills
