@@ -24,7 +24,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=cpp,c" />
 </p>
 
 ### Tools & Technologies
