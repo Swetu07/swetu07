@@ -108,7 +108,6 @@ Drop your suggestions
 ## 💡 Philosophy
 
 > **"Consistency compounds. Small improvements every day lead to remarkable results over time."**
-> **"If you feel like, just go for it."**
 ---
 
 <p align="center">
