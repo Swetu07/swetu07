@@ -49,7 +49,7 @@
 ## 🚀 Coding Journey
 
 - 🔥 Daily LeetCode Practice
-- 🧩 Problems Solved: **54**
+- 🧩 Problems Solved: **55**
 - 💻 Primary Language: **C++**
 - 📚 Current Focus: **DSA**
 
