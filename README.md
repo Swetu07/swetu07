@@ -48,7 +48,7 @@
 ---
 ## 🚀 Coding Journey
 
-- 🔥 Daily LeetCode Practice: 38/40
+- 🔥 Daily LeetCode Practice: 39/40
 - 🧩 Problems Solved: **57**
 - 💻 Primary Language: **C++**
 - 📚 Current Focus: **DSA**
